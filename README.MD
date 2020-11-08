@@ -4,12 +4,12 @@ My program works simply, just run it and then answer all quwstrion, after that y
 ## Team
 Kachykeev Alisher com19
 ## Images
-![it is how i started](/Images/starts.png)
-![it is how i finished](/Images/ends.png)
-![it is how its looks as application](/Images/finnaly.png)
-![logo alatoo](/Images/alatoo.png)
-![logo](/Images/test.png)
+![it is how i started](src/sample/Images/starts.png)
+![it is how i finished](src/sample/Images/ends.png)
+![it is how its looks as application](src/sample/Images/final.png)
+![logo alatoo](src/sample/Images/alatoo.png)
+![logo](src/sample/Images/test.png)
 ## File
-And here is .jar file: [TestApp.jar]
+And here is .jar file: [TestApp.jar](https://github.com/AlisherKachykeev/TestApp/blob/main/TestApp.jar)
 
 
